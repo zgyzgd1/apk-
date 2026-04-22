@@ -1,4 +1,4 @@
-# APK Archive
+﻿# APK Archive
 
 This repository stores archived APK files for the timetable app.
 
@@ -20,6 +20,7 @@ This repository stores archived APK files for the timetable app.
 - `v1.11` -> `Timetable-v1.11.apk`
 - `v1.12` -> `Timetable-v1.12.apk`
 - `v1.13` -> `Timetable-v1.13.apk`
+- `v1.15` -> `Timetable-v1.15.apk`
 
 ## Notes
 
