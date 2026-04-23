@@ -23,9 +23,10 @@ This repository stores archived APK files for the timetable app.
 - `v1.15` -> `Timetable-v1.15.apk`
 - `v1.16` -> `Timetable-v1.16.apk`
 - `v1.17` -> `Timetable-v1.17.apk`
+- `v1.18` -> `Timetable-v1.18.apk`
 
 ## Notes
 
 - Only the normalized release APK files are archived here.
 - Historical intermediate files such as `unsigned` or duplicate debug-named APKs are excluded.
-- The current APKs were produced with the Android debug keystore for consistent installation behavior across archived releases.
+- Older archived APKs may still be debug-signed, but `v1.18` and later are produced with the dedicated release keystore.
