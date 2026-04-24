@@ -1,4 +1,4 @@
-﻿# APK Archive
+# APK Archive
 
 This repository stores archived APK files for the timetable app.
 
@@ -37,4 +37,4 @@ This repository stores archived APK files for the timetable app.
 
 - Only the normalized release APK files are archived here.
 - Historical intermediate files such as `unsigned` or duplicate debug-named APKs are excluded.
-- Older archived APKs may still be debug-signed, but `v1.18` and later are produced with the dedicated release keystore.
+- **Unified Signatures**: All archived APKs (including historical versions prior to `v1.18`) have been re-signed with the dedicated release keystore to ensure a consistent installation and upgrade path.
