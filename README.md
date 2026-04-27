@@ -1,4 +1,4 @@
-﻿# APK Archive
+# APK Archive
 
 This repository stores archived APK files for the timetable app.
 
